@@ -1,0 +1,9 @@
+
+reflex[db]==0.9.12
+pymssql
+psycopg[binary]>=3.1.8
+reflex-enterprise>=0.9.6
+fastapi
+starlette
+httpx
+mcp>=1.0,<2
